@@ -20,7 +20,7 @@ label {
 
 input:focus,
 button:focus {
-  outline-color: var(--);
+  outline-color: var(--focus);
   outline-style: auto;
   outline-width: 5px;
 }
